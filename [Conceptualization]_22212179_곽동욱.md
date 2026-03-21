@@ -3,7 +3,7 @@
 # Project Title : Ex - Log (Exercise Logging & Rank System)
 
 ## Logo
-![Ex-Log 마크](https://github.com/KDWorld81/Ex-Log_Docs/blob/main/Ex-Log%20%E1%84%86%E1%85%A1%E1%84%8F%E1%85%B3.jpg?raw=true)
+![Ex-Log 마크](https://github.com/KDWorld81/Ex-Log_Docs/blob/main/chap1Images/Ex-Log%20%E1%84%86%E1%85%A1%E1%84%8F%E1%85%B3.jpg?raw=true)
 
 ## Student No , Name , E-mail
 - Std No : 22212179
@@ -38,7 +38,7 @@
 ## 1.1 Project Background
 
 ### 우리, 일반인들은 운동을 얼마나 할까?
-![운동을 얼마나할까 사진](https://github.com/KDWorld81/Ex-Log_Docs/blob/main/1-1.png?raw=true)
+![운동을 얼마나할까 사진](https://github.com/KDWorld81/Ex-Log_Docs/blob/main/chap1Images/1-1.png?raw=true)
 
 ### 🔴 대한민국 청소년, 운동을 잃어버린 세대
 - 질병관리본부의 통계는 우리 사회에 매우 뼈아픈 현실을 보여준다. 하루 60분, 주 5회 이상 활동하는 청소년이 단 5.6%에 불과하다는 수치는, 나머지 94.4%의 청소년이 신체적 활기를 잃은 채 정적인 일상에 갇혀 있는것을 의미한다. 세계보건기구(WHO)가 권장하는 신체 활동 기준과 비교했을 때, 대한민국 청소년의 건강 지표는 사실상 최하위 수준이다.
@@ -52,7 +52,7 @@
 - 운동 부족은 단순한 체력 저하에 그치지 않는다. 청소년 비만율의 급격한 상승, 거북목 및 척추 질환의 조기 발생은 물론이고, 에너지를 발산하지 못해 발생하는 극심한 학업 스트레스, 우울증, 불안 장애 등 정신 건강의 위기로 직결된다. 이는 장래 국가적 차원의 의료비 증대와 사회적 활력 저하라는 거대한 청구서로 돌아오게 될 것이 자명하다.
 
 ### 🔴 직장인들의 운동 병행의 고충
-![직장인들 운동병행 사진](https://github.com/KDWorld81/Ex-Log_Docs/blob/main/1-2.png?raw=true)
+![직장인들 운동병행 사진](https://github.com/KDWorld81/Ex-Log_Docs/blob/main/chap1Images/1-2.png?raw=true)
 
 - 위의 사진에서 저렇게 가볍게 웹 서핑만하더라도 직장인들의 운동 병행에 대한 고민 글이 넘쳐난다. 일반적인 직장인의 삶을 생각해보면, 아침에 출근해서 퇴근하면 저녁이다. 만약 저녁을 먹지 않고 퇴근한다면? 집에가서 저녁을 먹으면 8-9시가 되버린다.
 - 그렇다고 하여, 정시에 퇴근하는 사람이 많을까? 아니면 불규칙한 사람들이 많을까? 불규칙한 사람이 훨씬 많다. 그런 부분에서 직장인들은 전문적으로 운동 하는 사람들처럼 하기가 힘들것이다.
@@ -96,7 +96,7 @@
 ---
 
 # 2. System Context Diagram
-![diagram](https://github.com/KDWorld81/Ex-Log_Docs/blob/main/1-3.png?raw=true)
+![diagram](https://github.com/KDWorld81/Ex-Log_Docs/blob/main/chap1Images/1-3.png?raw=true)
 
 
 
