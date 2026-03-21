@@ -1,5 +1,15 @@
 # 1. Conceptualization
 
+# Project Title : Ex - Log (Exercise Logging & Rank System)
+
+## Logo
+![Ex-Log 마크](https://github.com/user-attachments/assets/a7991b0b-c8ea-4b25-9f1a-9e1a38299742)
+
+## Student No , Name , E-mail
+- Std No : 22212179
+- Name : Dong Wook Kwak
+- E-mail : kdw381@naver.com
+
 
 ## Revision History
 
@@ -257,7 +267,7 @@ Ex-Log는 랭킹 시스템을 통해 동기부여를 유도한다.
 ---
 
 # 7. References
-- [헬스경향](http://www.k-health.com)
+- [헬스경향]([http://www.k-health.com](https://www.k-health.com/news/articleView.html?idxno=37153))
 - [Spring](https://spring.io/)
-- [Redis doc
+- [Redis doc](https://redis.io/docs/latest/)
 
