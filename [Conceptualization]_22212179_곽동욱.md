@@ -23,13 +23,13 @@
 
 ## Contents
 
-1. Business purpose  
-2. System context diagram  
-3. Use case list  
-4. Concept of operation  
-5. Problem statement  
-6. Glossary  
-7. References  
+1. [Business Purpose](#1-business-purpose)
+2. [System Context Diagram](#2-system-context-diagram)
+3. [Use Case List](#3-use-case-list)
+4. [Concept of Operation](#4-concept-of-operation)
+5. [Problem Statement](#5-problem-statement)
+6. [Glossary](#6-glossary)
+7. [References](#7-references) 
 
 ---
 
@@ -226,7 +226,7 @@
 # 5. Problem Statement
 
 Overview
-Ex-Log는 대한민국 청소년의 심각한 신체 활동 부족 문제를 해결하기 위해, 운동 기록을 게임의 '경험치'와 '티어' 개념으로 치환하여 제공하는 서비스이다. 단순히 기록을 저장하는 것을 넘어, 사용자가 책상을 떠나 실제로 몸을 움직이게 만드는 강력한 동기부여를 목표로 한다. 이러한 목표를 달성하기 위해 시스템 설계 및 운영 측면에서 반드시 고려해야 할 주요 문제점들을 다음과 같이 정의한다.
+Ex-Log는 대한민국 일반인들의 심각한 신체 활동 부족 문제를 해결하기 위해, 운동 기록을 게임의 '경험치'와 '티어' 개념으로 치환하여 제공하는 서비스이다. 단순히 기록을 저장하는 것을 넘어, 사용자가 책상을 떠나 실제로 몸을 움직이게 만드는 강력한 동기부여를 목표로 한다. 이러한 목표를 달성하기 위해 시스템 설계 및 운영 측면에서 반드시 고려해야 할 주요 문제점들을 다음과 같이 정의한다.
 
 ### Problem#1 Motivation & Consistency (동기부여와 지속성)
 서비스의 가장 큰 숙제는 운동을 지루한 숙제로 느끼는 94.4%의 청소년및 직장인들을 (통틀어 일반인) 어떻게 지속적으로 참여시킬 것인가이다. 
