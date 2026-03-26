@@ -9,6 +9,8 @@
 - Std No : 22212179
 - Name : Dong Wook Kwak
 - E-mail : kdw381@naver.com
+- Project repository : [Ex-Log](https://github.com/KDWorld81/Ex-Log)
+- Docs repository : [Ex-Log_Docs](https://github.com/KDWorld81/Ex-Log_Docs)
 
 
 ## Revision History
@@ -267,7 +269,7 @@ Ex-Log는 랭킹 시스템을 통해 동기부여를 유도한다.
 ---
 
 # 7. References
-- [헬스경향]([http://www.k-health.com](https://www.k-health.com/news/articleView.html?idxno=37153))
+- [헬스경향](https://www.k-health.com/news/articleView.html?idxno=37153)
 - [Spring](https://spring.io/)
 - [Redis doc](https://redis.io/docs/latest/)
 
