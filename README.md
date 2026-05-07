@@ -1,2 +1,4 @@
 # Ex-Log_Docs
-- Ex-Log Repository의 문서를 저장하는 공간입니다.
+
+- Project repository : [Ex-Log](https://github.com/KDWorld81/Ex-Log)
+- Docs repository : [Ex-Log_Docs](https://github.com/KDWorld81/Ex-Log_Docs)
